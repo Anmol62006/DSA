@@ -13,6 +13,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Anmol62006/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Anmol62006/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Anmol62006/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Anmol62006/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +56,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Anmol62006/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Anmol62006/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
