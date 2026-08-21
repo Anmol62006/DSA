@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anmol62006/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anmol62006/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Anmol62006/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Anmol62006/DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Anmol62006/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Anmol62006/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -28,6 +29,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Anmol62006/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Anmol62006/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
