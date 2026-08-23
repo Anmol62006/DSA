@@ -28,6 +28,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Anmol62006/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Anmol62006/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anmol62006/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
