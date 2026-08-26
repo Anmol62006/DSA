@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Anmol62006/DSA/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Anmol62006/DSA/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anmol62006/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/Anmol62006/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Anmol62006/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anmol62006/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Anmol62006/DSA/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/Anmol62006/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Anmol62006/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
 ## Math
@@ -51,6 +53,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Anmol62006/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Anmol62006/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
 ## Matrix
@@ -70,4 +73,16 @@
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Anmol62006/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Anmol62006/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Anmol62006/DSA/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Anmol62006/DSA/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Anmol62006/DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
