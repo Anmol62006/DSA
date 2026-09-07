@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Anmol62006/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Anmol62006/DSA/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anmol62006/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anmol62006/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Anmol62006/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Anmol62006/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
@@ -53,6 +54,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Anmol62006/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anmol62006/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Anmol62006/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anmol62006/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Anmol62006/DSA/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
