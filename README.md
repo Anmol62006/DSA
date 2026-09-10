@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Anmol62006/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Anmol62006/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anmol62006/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Anmol62006/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/Anmol62006/DSA/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anmol62006/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -60,6 +61,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anmol62006/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Anmol62006/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anmol62006/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Anmol62006/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/Anmol62006/DSA/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
@@ -74,9 +76,11 @@
 | [0169-majority-element](https://github.com/Anmol62006/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Anmol62006/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anmol62006/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anmol62006/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Anmol62006/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -117,4 +121,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Anmol62006/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anmol62006/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 <!---LeetCode Topics End-->
