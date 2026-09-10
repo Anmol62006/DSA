@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/Anmol62006/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Anmol62006/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Anmol62006/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Anmol62006/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/Anmol62006/DSA/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anmol62006/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -33,6 +34,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anmol62006/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Anmol62006/DSA/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Anmol62006/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Anmol62006/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,12 +59,14 @@
 | [0035-search-insert-position](https://github.com/Anmol62006/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anmol62006/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Anmol62006/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Anmol62006/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/Anmol62006/DSA/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Anmol62006/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anmol62006/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -105,4 +109,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Anmol62006/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anmol62006/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anmol62006/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
