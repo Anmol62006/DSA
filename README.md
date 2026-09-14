@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anmol62006/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Anmol62006/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Anmol62006/DSA/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Anmol62006/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anmol62006/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anmol62006/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Anmol62006/DSA/tree/main/0169-majority-element/) | Easy |
@@ -58,6 +59,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Anmol62006/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anmol62006/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Anmol62006/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Anmol62006/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anmol62006/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Anmol62006/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -80,6 +82,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Anmol62006/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anmol62006/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Anmol62006/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Dynamic Programming
