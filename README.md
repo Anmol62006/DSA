@@ -39,6 +39,7 @@
 | [0027-remove-element](https://github.com/Anmol62006/DSA/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Anmol62006/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Anmol62006/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/Anmol62006/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +139,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anmol62006/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Anmol62006/DSA/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
