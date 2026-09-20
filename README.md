@@ -105,6 +105,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Anmol62006/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Anmol62006/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Anmol62006/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Divide and Conquer
@@ -148,6 +149,7 @@
 | [0020-valid-parentheses](https://github.com/Anmol62006/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anmol62006/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0344-reverse-string](https://github.com/Anmol62006/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/Anmol62006/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Anmol62006/DSA/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Anmol62006/DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Trie
