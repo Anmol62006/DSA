@@ -144,9 +144,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Anmol62006/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Anmol62006/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/Anmol62006/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Anmol62006/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Anmol62006/DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Anmol62006/DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
