@@ -149,6 +149,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anmol62006/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0344-reverse-string](https://github.com/Anmol62006/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0709-to-lower-case](https://github.com/Anmol62006/DSA/tree/main/0709-to-lower-case/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/Anmol62006/DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
