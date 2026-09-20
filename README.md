@@ -33,6 +33,7 @@
 | [1672-richest-customer-wealth](https://github.com/Anmol62006/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Anmol62006/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Anmol62006/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Anmol62006/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Anmol62006/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Anmol62006/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Anmol62006/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Anmol62006/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@
 | [0657-robot-return-to-origin](https://github.com/Anmol62006/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Anmol62006/DSA/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Anmol62006/DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Anmol62006/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
