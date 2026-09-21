@@ -12,8 +12,7 @@ class Solution {
 
             else if (ch == 'D')
                 y--;
-
-            else if (ch == 'L')
+                  else if (ch == 'L')
                 x--;
 
             else if (ch == 'R')
@@ -23,3 +22,5 @@ class Solution {
         return x == 0 && y == 0;
     }
 }
+
+
