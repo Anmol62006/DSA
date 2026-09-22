@@ -52,6 +52,7 @@
 | [0169-majority-element](https://github.com/Anmol62006/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Anmol62006/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Anmol62006/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +158,7 @@
 | [0392-is-subsequence](https://github.com/Anmol62006/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Anmol62006/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Anmol62006/DSA/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Anmol62006/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Anmol62006/DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Anmol62006/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Trie
