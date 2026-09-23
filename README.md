@@ -30,6 +30,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anmol62006/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Anmol62006/DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Anmol62006/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anmol62006/DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Anmol62006/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Anmol62006/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Anmol62006/DSA/tree/main/1929-concatenation-of-array/) | Easy |
@@ -160,6 +161,7 @@
 | [0709-to-lower-case](https://github.com/Anmol62006/DSA/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Anmol62006/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Anmol62006/DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anmol62006/DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Anmol62006/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
