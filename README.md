@@ -35,6 +35,7 @@
 | [1920-build-array-from-permutation](https://github.com/Anmol62006/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Anmol62006/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Anmol62006/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anmol62006/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anmol62006/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anmol62006/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anmol62006/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
