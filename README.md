@@ -36,6 +36,7 @@
 | [1920-build-array-from-permutation](https://github.com/Anmol62006/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Anmol62006/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Anmol62006/DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anmol62006/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anmol62006/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -105,12 +106,14 @@
 | [0074-search-a-2d-matrix](https://github.com/Anmol62006/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Anmol62006/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Anmol62006/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anmol62006/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anmol62006/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Anmol62006/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Anmol62006/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anmol62006/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +195,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anmol62006/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anmol62006/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anmol62006/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
