@@ -57,6 +57,7 @@
 | [0242-valid-anagram](https://github.com/Anmol62006/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/Anmol62006/DSA/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Anmol62006/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Anmol62006/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anmol62006/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Math
@@ -131,6 +132,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Anmol62006/DSA/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/Anmol62006/DSA/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Anmol62006/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@
 | [0242-valid-anagram](https://github.com/Anmol62006/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Anmol62006/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Anmol62006/DSA/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Anmol62006/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Anmol62006/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Anmol62006/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Anmol62006/DSA/tree/main/0709-to-lower-case/) | Easy |
@@ -205,4 +208,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anmol62006/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anmol62006/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
