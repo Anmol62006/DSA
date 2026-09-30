@@ -177,6 +177,7 @@
 | [0709-to-lower-case](https://github.com/Anmol62006/DSA/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Anmol62006/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Anmol62006/DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anmol62006/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anmol62006/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anmol62006/DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anmol62006/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -189,11 +190,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anmol62006/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anmol62006/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anmol62006/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anmol62006/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anmol62006/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anmol62006/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anmol62006/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## String Matching
