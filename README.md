@@ -68,6 +68,7 @@
 | [0009-palindrome-number](https://github.com/Anmol62006/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Anmol62006/DSA/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Anmol62006/DSA/tree/main/0268-missing-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Anmol62006/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anmol62006/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anmol62006/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anmol62006/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -113,6 +114,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anmol62006/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Anmol62006/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Anmol62006/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0509-fibonacci-number](https://github.com/Anmol62006/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anmol62006/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -219,4 +221,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Anmol62006/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Anmol62006/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Anmol62006/DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
